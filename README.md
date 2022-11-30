@@ -12,7 +12,7 @@ P.S. This was a project for Digital Humanities 110 UI/UX in Fall 2022.
 
 ## Competitor Analysis
 ### Heuristic Evaluation
-![heuristic evaluation for COD](https://github.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/blob/main/cod%20homepage.png)
+![heuristic evaluation for COD](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/cod%20homepage.png)
 ![heuristic evaluation for FoodPantries.Org](https://github.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/blob/main/multiple%20entries%20for%20searching.png) 
 The purpose of the heuristic evaluation is to scope out the existing services and decipher the gaps between the features and the user. In other words, a missing piece to the answer. College of the Desert’s website and FoodPantries.Org are the two products that I conducted a heuristic evaluation on. Food Pantries.Org had a better search system to find nearby food pantries, but was bare with features. College of the Desert was more well-rounded, but was deficient in promotion and features for the free food services. Heuristics lays the foundation on what qualities the product or should be. 
 
