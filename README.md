@@ -32,3 +32,33 @@ With these insights, I revised my original idea for potential users and design o
 [Click here for full access to the contextual inquiry.](https://github.com/sdelaserna/DH110-Assignment-3-Contextual-Inquiry)
 
 ## UX Storytelling
+One of the most important qualities to user research is empathy. This quality is highlighted and fostered through UX storytelling like personas, usage scenarios, empathy maps, and journey maps. Its purpose is for the designer to see in the eyes of their users and envision how they would interact with the website. So, throughout the designing process, we always keep the users the focal point of decisions, by referencing back to the materials earlier. A concrete image of a user also allows more ideas to bounce off too, especially in a team setting! 
+
+I created two personas with different but likely backgrounds that might use this website. 
+* Elaina Pascuela: a hardworking single mother who is attending College of the Desert to improve her and her child’s future. 
+> Her scenario focuses on ease of gathering information: location, contact information, transition to the calendar, and personal stories. 
+
+
+* Jacob Mendoza: a recent high school graduate who is attending College of the Desert to save on finances for his family and transfer to a 4 year university. 
+> His scenario focuses on a reservation system of items from the food pantry at school to make his visit as quick as possible. 
+
+
+Both of these have usage scenarios to conceptualize the environment and obstacles that these people might go through. There is an empathy map to emulate what they might say, think, do, and feel. And there’s a journey map to succinctly narrow down the factors of the scenario through 4 stages: initiation, frustration, solution, and goal. With a solid comprehension of users, the designing part begins!
+
+[Click here to access the full UX storytelling.](https://github.com/sdelaserna/DH-110-Assignment-04)
+
+## Low Fidelity Prototyping
+Low-Fidelity prototyping focuses on the function of the webpage and testing if that function is utilized by the intended audience. It’s a highly editable stage for more improvement of the product, or in this case a website. 
+
+After creating one version of the low-fidelity prototype, I had a participant trace her steps through the pages, features, and webflow. With her feedback, I was able to garner major concerns and pits of the flow for later iterations of the prototype. 
+[Click here for full access of the low fidelity prototyping process.](https://github.com/sdelaserna/DH-110-assignmnt-05-low-fidelity-prototyping)
+
+## Interface Design
+Now, it was time to further develop the product from the sketches of low-fidelity prototyping to illustrating the wireframe on a digital screen. In this phase, one wireframe is constructed to test out different elements and the variations of those elements. For example, editing for different fonts, colors, and shapes. A light and dark mode was created too. The color scheme had to pass a color contrast test (WCAG 2.1 AA level). 
+
+The main takeaway to interface design is to aim for the desired first impression. Thus, there was a test for that and any critique or appraisal will be taken into account for future revisions. 
+[Click here for full access to the interface design process.](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System)
+
+## High Fidelity Prototyping
+From the low-fidelity prototype and interface design, a high-fidelity prototype was crafted on Figma. Now all the wireframes from the low-fidelity prototype are digitized onto Figma by the standards set from the interface design. The fundamentals of this phase are all the little interactions that help the user reach their end goal. This is tested through multiple cognitive walkthroughs and feedback is noted for the next iterations. 
+[Click here for full access to the high fidelity prototyping process.](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/README.md)
