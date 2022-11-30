@@ -13,13 +13,13 @@ P.S. This was a project for Digital Humanities 110 UI/UX in Fall 2022.
 ## Competitor Analysis
 ### Heuristic Evaluation
 ![heuristic evaluation for COD](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/cod%20homepage.png)
-![heuristic evaluation for FoodPantries.Org](/DH-110-Assignment-8-Portfolio-and-Video-Pitch/assets/multiple entries for searching.png) 
+![heuristic evaluation for FoodPantries.Org](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/multiple%20entries%20for%20searching.png) 
 The purpose of the heuristic evaluation is to scope out the existing services and decipher the gaps between the features and the user. In other words, a missing piece to the answer. College of the Desert’s website and FoodPantries.Org are the two products that I conducted a heuristic evaluation on. Food Pantries.Org had a better search system to find nearby food pantries, but was bare with features. College of the Desert was more well-rounded, but was deficient in promotion and features for the free food services. Heuristics lays the foundation on what qualities the product or should be. 
 
 [Click here for access to the full heuristic evaluation.](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-)
 
 ### Usability Testing
-![usability testing picture](https://github.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/blob/main/Usability%20Testing.png)
+![usability testing picture](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/Usability%20Testing.png)
 After findings from the heuristic evaluation, further investigation is necessary for improvement of the website.  A critical part of the UX process is usability testing (UT) to collect empirical and numerical data on the website through a participant's performance of realistic tasks. The areas of focus for the College of the Desert’s website was finding the food pantries page, the campus resources, and enrollment into College of the Desert. UT offered me an insight into how users might interact and react to certain obstacles, which therefore gives me a better understanding for the future of the design process. 
 
 [Click here for access for the full pilot usability test.](https://github.com/sdelaserna/DH110-22F-A2-Pilot-Usability-Test)
