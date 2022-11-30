@@ -85,9 +85,5 @@ From the low-fidelity prototype and interface design, a high-fidelity prototype 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FUiufVd4yISDvhUME801EHM%2FAssignment-7%3Fnode-id%3D1%253A2308%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2308" allowfullscreen></iframe>
 
 ## Pitch Video
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=nTAew-4puCM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line →>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTAew-4puCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
