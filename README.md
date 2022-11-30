@@ -45,13 +45,8 @@ I created two personas with different but likely backgrounds that might use this
 * Elaina Pascuela: a hardworking single mother who is attending College of the Desert to improve her and her child’s future. 
 > Her scenario focuses on ease of gathering information: location, contact information, transition to the calendar, and personal stories. 
 
-![Elaina Pascuela Persona](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/Elaina%20Pascuela's%20Persona.png)
-
 * Jacob Mendoza: a recent high school graduate who is attending College of the Desert to save on finances for his family and transfer to a 4 year university. 
-> His scenario focuses on a reservation system of items from the food pantry at school to make his visit as quick as possible. 
-
-![Jacob Mendoza](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/Jacob%20Mendoza's%20Persona.png)
-
+> His scenario focuses on a reservation system of items from the food pantry at school to make his visit as quick as possible.
 
 Elaina Pascuela's Persona | Jacob Mendoza's persona
 -------------------------------------------|---------------------------------------------
