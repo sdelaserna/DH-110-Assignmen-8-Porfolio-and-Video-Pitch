@@ -1,5 +1,6 @@
 # Improving the Food Services for Students at College of the Desert 
 By Stacey Amery Dela Serna
+
 This was a project for Digital Humanities 110 UI/UX in Fall 2022. 
 
 ## Introduction
