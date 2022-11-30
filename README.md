@@ -83,3 +83,11 @@ From the low-fidelity prototype and interface design, a high-fidelity prototype 
 [Click here for the prototype.](https://www.figma.com/proto/UiufVd4yISDvhUME801EHM/Assignment-7?node-id=1%3A2308&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2308)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FUiufVd4yISDvhUME801EHM%2FAssignment-7%3Fnode-id%3D1%253A2308%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2308" allowfullscreen></iframe>
+
+## Pitch Video
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=nTAew-4puCM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line →>
+
