@@ -51,14 +51,17 @@ Both of these have usage scenarios to conceptualize the environment and obstacle
 Low-Fidelity prototyping focuses on the function of the webpage and testing if that function is utilized by the intended audience. It’s a highly editable stage for more improvement of the product, or in this case a website. 
 
 After creating one version of the low-fidelity prototype, I had a participant trace her steps through the pages, features, and webflow. With her feedback, I was able to garner major concerns and pits of the flow for later iterations of the prototype. 
+
 [Click here for full access of the low fidelity prototyping process.](https://github.com/sdelaserna/DH-110-assignmnt-05-low-fidelity-prototyping)
 
 ## Interface Design
 Now, it was time to further develop the product from the sketches of low-fidelity prototyping to illustrating the wireframe on a digital screen. In this phase, one wireframe is constructed to test out different elements and the variations of those elements. For example, editing for different fonts, colors, and shapes. A light and dark mode was created too. The color scheme had to pass a color contrast test (WCAG 2.1 AA level). 
 
 The main takeaway to interface design is to aim for the desired first impression. Thus, there was a test for that and any critique or appraisal will be taken into account for future revisions. 
+
 [Click here for full access to the interface design process.](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System)
 
 ## High Fidelity Prototyping
 From the low-fidelity prototype and interface design, a high-fidelity prototype was crafted on Figma. Now all the wireframes from the low-fidelity prototype are digitized onto Figma by the standards set from the interface design. The fundamentals of this phase are all the little interactions that help the user reach their end goal. This is tested through multiple cognitive walkthroughs and feedback is noted for the next iterations. 
+
 [Click here for full access to the high fidelity prototyping process.](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/README.md)
