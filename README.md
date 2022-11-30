@@ -87,3 +87,13 @@ From the low-fidelity prototype and interface design, a high-fidelity prototype 
 ## Pitch Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nTAew-4puCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Conclusion: What did I learn about the Design Process? 
+
+Overall, I really enjoy UI/UX! It was difficult at times, but this was my first time going through a designing process like this. I really like the work that you put in is what you get out. It was a lot more repetitive than I thought, but every time I learned something new or got faster at the step. I think I adequately achieved my goal to improve the free food services for College of the Desert’s website. 
+
+My favorite part of the design process was actually the contextual inquiry because personally for me it directed the path of the project. I like that my original vision of the product totally changed because of it. Also attentively listening and connecting with others in a meaningful way is a people skill that I am proud of, so I’m happy to use it for a class. I have a sense of fulfillment knowing that this project could potentially help real people and solve real world problems. Another aspect I really liked is the user research. I like games, so creating a persona reminded me of building a character. I still recognize the weight it holds since personas are modeled after real people. 
+
+The more difficult part of the project was actually low fidelity prototyping. I actually thought I would enjoy this part the most in the beginning of the class. However, I think this is more of a sign of my inexperience and my busy schedule during the fall quarter, especially transitioning back to fully in-person from COVID-19. 
+
+For the future, I think I would like to build a project out from scratch. I will definitely go back to this one to polish this up more when I have free time like during winter break. I also would like to do more collaborations with other people since I know that people are usually in groups in working environments. This class definitely solidified that I want to enter this career in the near future. 
