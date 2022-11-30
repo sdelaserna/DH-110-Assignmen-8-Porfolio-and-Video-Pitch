@@ -14,7 +14,7 @@ P.S. This was a project for Digital Humanities 110 UI/UX in Fall 2022.
 
 medlinePlus | CDC.gov 
 -------------------------------------------|---------------------------------------------
-<img src=”/DH-110-Assignment-8-Portfolio-and-Video-Pitch/cod%20homepage.png” height=”300px”>  | <img src=”https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/cod%20homepage.png” height=”300px”> 
+![heuristic evaluation for COD](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/cod%20homepage.png)  | ![heuristic evaluation for FoodPantries.Org](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/multiple%20entries%20for%20searching.png) 
 
 
 ![heuristic evaluation for COD](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/cod%20homepage.png)
