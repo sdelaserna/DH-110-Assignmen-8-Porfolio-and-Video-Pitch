@@ -52,6 +52,11 @@ I created two personas with different but likely backgrounds that might use this
 
 ![Jacob Mendoza](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/Jacob%20Mendoza's%20Persona.png)
 
+
+Elaina Pascuela's Persona | Jacob Mendoza's persona
+-------------------------------------------|---------------------------------------------
+![Elaina Pascuela Persona](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/Elaina%20Pascuela's%20Persona.png) | ![Jacob Mendoza](https://raw.githubusercontent.com/sdelaserna/DH-110-Assignment-8-Portfolio-and-Video-Pitch/main/Jacob%20Mendoza's%20Persona.png)
+
 Both of these have usage scenarios to conceptualize the environment and obstacles that these people might go through. There is an empathy map to emulate what they might say, think, do, and feel. And there’s a journey map to succinctly narrow down the factors of the scenario through 4 stages: initiation, frustration, solution, and goal. With a solid comprehension of users, the designing part begins!
 
 [Click here to access the full UX storytelling.](https://github.com/sdelaserna/DH-110-Assignment-04)
