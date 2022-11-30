@@ -1,4 +1,4 @@
-# DH 110 Assignment 8: Porfolio and Video Pitch
+# DH 110 Assignment 8: Portfolio and Video Pitch
 # Improving the Food Services for Students at College of the Desert 
 By Stacey Amery Dela Serna
 
