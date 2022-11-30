@@ -76,3 +76,7 @@ The main takeaway to interface design is to aim for the desired first impression
 From the low-fidelity prototype and interface design, a high-fidelity prototype was crafted on Figma. Now all the wireframes from the low-fidelity prototype are digitized onto Figma by the standards set from the interface design. The fundamentals of this phase are all the little interactions that help the user reach their end goal. This is tested through multiple cognitive walkthroughs and feedback is noted for the next iterations. 
 
 [Click here for full access to the high fidelity prototyping process.](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/README.md)
+
+[Click here for the prototype.](https://www.figma.com/proto/UiufVd4yISDvhUME801EHM/Assignment-7?node-id=1%3A2308&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2308)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FUiufVd4yISDvhUME801EHM%2FAssignment-7%3Fnode-id%3D1%253A2308%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2308" allowfullscreen></iframe>
